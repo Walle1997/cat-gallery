@@ -1,6 +1,6 @@
 # <div align="center">Тестовое задание от компании АО РК-ТЕХНОЛОГИИ Junior/Middle Frontend developer (React, Next.JS)</div>
 
-## <div align="center">Посмотреть на результат работ можно здесь <a href="[cat-gallery-git-master-farids-projects-eaf9b1b4.vercel.app](https://cat-gallery-mdp26lp8w-farids-projects-eaf9b1b4.vercel.app/)">👨‍💻</a></div>
+## <div align="center">Посмотреть на результат работ можно здесь <a href="https://cat-gallery-mdp26lp8w-farids-projects-eaf9b1b4.vercel.app/">👨‍💻</a></div>
 
 
 ### Суть задания:
